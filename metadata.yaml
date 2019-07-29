@@ -1,0 +1,28 @@
+_repo: A-Letter-to-John-Wilkes-Esq-Sheriff-of-London-and-Middlesex-In-Which-the-Extortion-and-Oppres__59984
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holloway, Robert, active 1771-1808
+    gutenberg_agent_id: '50703'
+    url: http://www.gutenberg.org/2009/agents/50703
+description: ''
+gutenberg_issued: '2019-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Freedom'
+- !lcsh 'Extortion'
+- !lcsh 'Sheriffs'
+- !lcsh 'Crime'
+- !lcc 'HV'
+- GITenberg
+title: 'A Letter to John Wilkes, Esq; Sheriff of London and Middlesex
+
+  In Which the Extortion and Oppression of Sheriffs Officers, With Many Other Alarming
+  Abuses, Are Exemplified and Detected; and a Remedy Proposed'
+url: http://www.gutenberg.org/ebooks/59984
